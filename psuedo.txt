@@ -1,0 +1,8 @@
+
+
+count from 1 to 15 for variable current count
+create a loop using modulus function to divide current count by 3 and 5
+if remainder of division for 3 && 5 is 0 output fizzbuzz
+elseif remainder of division is zero for only 3 output fizz
+elseif remainder of division is zero for only 5 output buzz
+else remainder for both does not equal 0 output current count
